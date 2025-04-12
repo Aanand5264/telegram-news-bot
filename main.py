@@ -66,7 +66,7 @@ def main_loop():
                 posted_titles.add(title)
                 break  # Send only 1 new post every minute
 
-        time.sleep(60)  # 1 minute
+        time.sleep(1800)  # 1 minute
 
 # === Start Everything ===
 keep_alive()
