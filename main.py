@@ -6,7 +6,7 @@ from threading import Thread
 
 # === CONFIG ===
 BOT_TOKEN = '7585752271:AAFzQM-SfgmXmynKpHe_fT_iLg7wLrALwu8'
-CHANNEL_USERNAME = '@ALLnews_24hours'
+CHANNEL_USERNAME = '@HINDInews24hours'
 GNEWS_API_KEY = '1a9f20f23ac2d7016180cec977baa718'
 NEWS_API_URL = f'https://gnews.io/api/v4/top-headlines?lang=hi&country=in&token={GNEWS_API_KEY}'
 
